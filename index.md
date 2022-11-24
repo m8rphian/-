@@ -15,11 +15,11 @@
 - GeekBrains, Менеджер по продажам
 - Skillbox, Телемаркетолог
 
->#Hard-skills
+># Hard-skills
 
-+
-+
-+
-+
++ Дымовое, регрессионное, функциональное тестирование
++ Документация: тест-кейсы, чек-листы, баг-репорты
++ Инструменты: Jira, Confluence, QA Touch, Jenkins, DBeaver, Postman
++ Языки: MySQL, HTML, CSS
 
->#Soft-skills
+># Soft-skills

@@ -29,14 +29,14 @@
 > Март 2020 - сентябрь 2022 (1 год 6 месяцев)
 
 
-# Hard-skills
+# Hard skills
 
 + Дымовое, регрессионное, функциональное тестирование
 + Документация: тест-кейсы, чек-листы, баг-репорты
 + Инструменты: Jira, Confluence, QA Touch, Jenkins, DBeaver, Postman, VSCode
 + Языки: MySQL, HTML, CSS
 
-# Soft-skills
+# Soft skills
 
 + Внимательность
 + Ответственность

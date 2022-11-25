@@ -19,7 +19,7 @@
 
 + Дымовое, регрессионное, функциональное тестирование
 + Документация: тест-кейсы, чек-листы, баг-репорты
-+ Инструменты: Jira, Confluence, QA Touch, Jenkins, DBeaver, Postman, 
++ Инструменты: Jira, Confluence, QA Touch, Jenkins, DBeaver, Postman, VSCode
 + Языки: MySQL, HTML, CSS
 
 ># Soft-skills
